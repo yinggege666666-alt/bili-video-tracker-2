@@ -51,6 +51,15 @@
           "coin": 329,
           "favorite": 591,
           "share": 37
+        },
+        {
+          "time": "2026-08-20 01:00",
+          "view": 10218,
+          "reply": 61,
+          "like": 389,
+          "coin": 329,
+          "favorite": 591,
+          "share": 37
         }
       ]
     },
@@ -105,11 +114,38 @@
           "coin": 682,
           "favorite": 701,
           "share": 237
+        },
+        {
+          "time": "2026-08-20 01:00",
+          "view": 18037,
+          "reply": 315,
+          "like": 475,
+          "coin": 686,
+          "favorite": 709,
+          "share": 237
+        }
+      ]
+    },
+    {
+      "bvid": "BV1mngW6GEfr",
+      "sort_order": 3,
+      "title": "【懒人ComfyUI教程】2026新版赖人Comfyui整合包无私分享！全面适配50 40 30显卡，Win+Mac一键安装，解压即用（附零基精通教程）效率拉满",
+      "owner": "comfyui系统教程",
+      "pubdate": 1786612696,
+      "history": [
+        {
+          "time": "2026-08-20 01:00",
+          "view": 22025,
+          "reply": 2945,
+          "like": 1789,
+          "coin": 2337,
+          "favorite": 1935,
+          "share": 193
         }
       ]
     }
   ],
-  "last_update": "2026-08-20 00:00:59",
+  "last_update": "2026-08-20 01:42:43",
   "last_error": "",
   "repo_url": "https://github.com/yinggege666666-alt/bili-video-tracker-2"
 }
