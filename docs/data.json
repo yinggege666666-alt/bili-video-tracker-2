@@ -24,6 +24,15 @@
           "coin": 329,
           "favorite": 591,
           "share": 37
+        },
+        {
+          "time": "2026-08-19 22:00",
+          "view": 10213,
+          "reply": 61,
+          "like": 389,
+          "coin": 329,
+          "favorite": 591,
+          "share": 37
         }
       ]
     },
@@ -51,19 +60,20 @@
           "coin": 682,
           "favorite": 691,
           "share": 237
+        },
+        {
+          "time": "2026-08-19 22:00",
+          "view": 17856,
+          "reply": 312,
+          "like": 468,
+          "coin": 682,
+          "favorite": 695,
+          "share": 237
         }
       ]
-    },
-    {
-      "bvid": "BV1mngW6GEfr",
-      "sort_order": 3,
-      "title": "等待首次抓取",
-      "owner": "",
-      "pubdate": 0,
-      "history": []
     }
   ],
-  "last_update": "2026-08-19 20:01:51",
-  "last_error": "获取 BV1mngW6GEfr 失败：啥都木有",
+  "last_update": "2026-08-19 22:10:00",
+  "last_error": "",
   "repo_url": "https://github.com/yinggege666666-alt/bili-video-tracker-2"
 }
