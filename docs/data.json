@@ -1,6 +1,51 @@
 {
-  "videos": [],
-  "last_update": "2026-08-19 18:28:41",
-  "last_error": "",
+  "videos": [
+    {
+      "bvid": "BV1i1uB6bEop",
+      "sort_order": 1,
+      "title": "【ComfyUI】大佬发布！全中文界面支持中文提示词！全面适配50 40 30系显卡，Win+Mac一键安装，解压即用（附零基精通教程）效率直接拉满！",
+      "owner": "comfyui大佬安装包",
+      "pubdate": 1786455472,
+      "history": [
+        {
+          "time": "2026-08-19 19:00",
+          "view": 10210,
+          "reply": 61,
+          "like": 389,
+          "coin": 329,
+          "favorite": 591,
+          "share": 37
+        }
+      ]
+    },
+    {
+      "bvid": "BV19buq6JEJD",
+      "sort_order": 2,
+      "title": "【全网首发】minimaxh3漫剧从零基础到精通，超详细从零开始学习comfyui工作流搭建（2026新手入门实用版）全程干货无废话（附最新Comfyui整合包",
+      "owner": "minimaxh3漫剧",
+      "pubdate": 1786433881,
+      "history": [
+        {
+          "time": "2026-08-19 19:00",
+          "view": 17632,
+          "reply": 310,
+          "like": 468,
+          "coin": 682,
+          "favorite": 692,
+          "share": 231
+        }
+      ]
+    },
+    {
+      "bvid": "BV1mngW6GEfr",
+      "sort_order": 3,
+      "title": "等待首次抓取",
+      "owner": "",
+      "pubdate": 0,
+      "history": []
+    }
+  ],
+  "last_update": "2026-08-19 19:04:34",
+  "last_error": "获取 BV1mngW6GEfr 失败：啥都木有",
   "repo_url": "https://github.com/yinggege666666-alt/bili-video-tracker-2"
 }
