@@ -141,6 +141,15 @@
           "coin": 329,
           "favorite": 591,
           "share": 37
+        },
+        {
+          "time": "2026-08-21 00:00",
+          "view": 10230,
+          "reply": 61,
+          "like": 389,
+          "coin": 329,
+          "favorite": 591,
+          "share": 37
         }
       ]
     },
@@ -285,6 +294,15 @@
           "coin": 706,
           "favorite": 753,
           "share": 239
+        },
+        {
+          "time": "2026-08-21 00:00",
+          "view": 19003,
+          "reply": 335,
+          "like": 493,
+          "coin": 708,
+          "favorite": 756,
+          "share": 239
         }
       ]
     },
@@ -384,6 +402,15 @@
           "coin": 2625,
           "favorite": 2159,
           "share": 219
+        },
+        {
+          "time": "2026-08-21 00:00",
+          "view": 25090,
+          "reply": 3388,
+          "like": 2039,
+          "coin": 2648,
+          "favorite": 2190,
+          "share": 220
         }
       ]
     },
@@ -429,11 +456,38 @@
           "coin": 7905,
           "favorite": 4650,
           "share": 1753
+        },
+        {
+          "time": "2026-08-21 00:00",
+          "view": 46424,
+          "reply": 1132,
+          "like": 4389,
+          "coin": 7905,
+          "favorite": 4654,
+          "share": 1756
+        }
+      ]
+    },
+    {
+      "bvid": "BV1VY8A6VEcK",
+      "sort_order": 5,
+      "title": "【8月全新ComfyUI教程】ai绘画，ai视频，ai短剧，ai漫剧，文生视频，图生视频，首尾帧视频，零开始学习comfyui工作流搭建，全程干货无废话！",
+      "owner": "comfyui工作流教程_",
+      "pubdate": 1787237727,
+      "history": [
+        {
+          "time": "2026-08-21 00:00",
+          "view": 5266,
+          "reply": 8,
+          "like": 42,
+          "coin": 82,
+          "favorite": 42,
+          "share": 50
         }
       ]
     }
   ],
-  "last_update": "2026-08-20 22:22:37",
+  "last_update": "2026-08-21 00:03:20",
   "last_error": "",
   "repo_url": "https://github.com/yinggege666666-alt/bili-video-tracker-2"
 }
