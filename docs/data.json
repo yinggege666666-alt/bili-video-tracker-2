@@ -213,6 +213,15 @@
           "coin": 329,
           "favorite": 592,
           "share": 37
+        },
+        {
+          "time": "2026-08-21 16:00",
+          "view": 10246,
+          "reply": 62,
+          "like": 390,
+          "coin": 329,
+          "favorite": 592,
+          "share": 37
         }
       ]
     },
@@ -429,6 +438,15 @@
           "coin": 714,
           "favorite": 775,
           "share": 243
+        },
+        {
+          "time": "2026-08-21 16:00",
+          "view": 19512,
+          "reply": 335,
+          "like": 498,
+          "coin": 714,
+          "favorite": 776,
+          "share": 243
         }
       ]
     },
@@ -600,6 +618,15 @@
           "coin": 2785,
           "favorite": 2308,
           "share": 226
+        },
+        {
+          "time": "2026-08-21 16:00",
+          "view": 26713,
+          "reply": 4005,
+          "like": 2181,
+          "coin": 2828,
+          "favorite": 2342,
+          "share": 229
         }
       ]
     },
@@ -717,6 +744,15 @@
           "coin": 7976,
           "favorite": 4704,
           "share": 1757
+        },
+        {
+          "time": "2026-08-21 16:00",
+          "view": 47091,
+          "reply": 1152,
+          "like": 4512,
+          "coin": 8114,
+          "favorite": 4781,
+          "share": 1758
         }
       ]
     },
@@ -798,6 +834,15 @@
           "coin": 274,
           "favorite": 141,
           "share": 50
+        },
+        {
+          "time": "2026-08-21 16:00",
+          "view": 7404,
+          "reply": 94,
+          "like": 166,
+          "coin": 318,
+          "favorite": 170,
+          "share": 51
         }
       ]
     },
@@ -815,6 +860,15 @@
           "like": 4795,
           "coin": 7953,
           "favorite": 4823,
+          "share": 1986
+        },
+        {
+          "time": "2026-08-21 16:00",
+          "view": 32803,
+          "reply": 698,
+          "like": 4796,
+          "coin": 7955,
+          "favorite": 4829,
           "share": 1986
         }
       ]
@@ -834,11 +888,38 @@
           "coin": 1029,
           "favorite": 1146,
           "share": 159
+        },
+        {
+          "time": "2026-08-21 16:00",
+          "view": 13287,
+          "reply": 1248,
+          "like": 977,
+          "coin": 1066,
+          "favorite": 1181,
+          "share": 164
+        }
+      ]
+    },
+    {
+      "bvid": "BV1yabX6AEsA",
+      "sort_order": 8,
+      "title": "【秋叶ComfyUI】秋叶最新发布！全中文界面支持中文提示词！全面适配50 40 30系显卡，Win+Mac一键安装，解压即用（附零基精通教程）效率直接拉满！",
+      "owner": "ComfyUI最新版整合包",
+      "pubdate": 1786883522,
+      "history": [
+        {
+          "time": "2026-08-21 16:00",
+          "view": 13537,
+          "reply": 555,
+          "like": 2225,
+          "coin": 4151,
+          "favorite": 2365,
+          "share": 404
         }
       ]
     }
   ],
-  "last_update": "2026-08-21 13:54:42",
+  "last_update": "2026-08-21 16:01:57",
   "last_error": "",
   "repo_url": "https://github.com/yinggege666666-alt/bili-video-tracker-2"
 }
