@@ -285,6 +285,15 @@
           "coin": 329,
           "favorite": 592,
           "share": 37
+        },
+        {
+          "time": "2026-08-22 05:00",
+          "view": 10256,
+          "reply": 62,
+          "like": 390,
+          "coin": 329,
+          "favorite": 592,
+          "share": 37
         }
       ]
     },
@@ -573,6 +582,15 @@
           "coin": 717,
           "favorite": 795,
           "share": 247
+        },
+        {
+          "time": "2026-08-22 05:00",
+          "view": 19981,
+          "reply": 341,
+          "like": 510,
+          "coin": 717,
+          "favorite": 795,
+          "share": 247
         }
       ]
     },
@@ -816,6 +834,15 @@
           "coin": 3033,
           "favorite": 2796,
           "share": 308
+        },
+        {
+          "time": "2026-08-22 05:00",
+          "view": 28786,
+          "reply": 4114,
+          "like": 2481,
+          "coin": 3033,
+          "favorite": 2797,
+          "share": 308
         }
       ]
     },
@@ -1005,6 +1032,15 @@
           "coin": 8127,
           "favorite": 4808,
           "share": 1759
+        },
+        {
+          "time": "2026-08-22 05:00",
+          "view": 47815,
+          "reply": 1170,
+          "like": 4526,
+          "coin": 8127,
+          "favorite": 4808,
+          "share": 1759
         }
       ]
     },
@@ -1090,6 +1126,15 @@
         {
           "time": "2026-08-22 04:00",
           "view": 34105,
+          "reply": 731,
+          "like": 4916,
+          "coin": 8170,
+          "favorite": 4953,
+          "share": 1988
+        },
+        {
+          "time": "2026-08-22 05:00",
+          "view": 34130,
           "reply": 731,
           "like": 4916,
           "coin": 8170,
@@ -1185,6 +1230,15 @@
           "coin": 1215,
           "favorite": 1482,
           "share": 184
+        },
+        {
+          "time": "2026-08-22 05:00",
+          "view": 15759,
+          "reply": 1467,
+          "like": 1205,
+          "coin": 1215,
+          "favorite": 1483,
+          "share": 184
         }
       ]
     },
@@ -1266,11 +1320,20 @@
           "coin": 4596,
           "favorite": 2659,
           "share": 412
+        },
+        {
+          "time": "2026-08-22 05:00",
+          "view": 15813,
+          "reply": 674,
+          "like": 2482,
+          "coin": 4596,
+          "favorite": 2659,
+          "share": 412
         }
       ]
     }
   ],
-  "last_update": "2026-08-22 04:45:59",
+  "last_update": "2026-08-22 05:02:55",
   "last_error": "",
   "repo_url": "https://github.com/yinggege666666-alt/bili-video-tracker-2"
 }
