@@ -585,7 +585,7 @@
         },
         {
           "time": "2026-08-22 05:00",
-          "view": 19981,
+          "view": 19986,
           "reply": 341,
           "like": 510,
           "coin": 717,
@@ -837,11 +837,11 @@
         },
         {
           "time": "2026-08-22 05:00",
-          "view": 28786,
+          "view": 28806,
           "reply": 4114,
-          "like": 2481,
+          "like": 2482,
           "coin": 3033,
-          "favorite": 2797,
+          "favorite": 2798,
           "share": 308
         }
       ]
@@ -1035,7 +1035,7 @@
         },
         {
           "time": "2026-08-22 05:00",
-          "view": 47815,
+          "view": 47820,
           "reply": 1170,
           "like": 4526,
           "coin": 8127,
@@ -1134,12 +1134,12 @@
         },
         {
           "time": "2026-08-22 05:00",
-          "view": 34130,
+          "view": 34190,
           "reply": 731,
           "like": 4916,
           "coin": 8170,
-          "favorite": 4953,
-          "share": 1988
+          "favorite": 4954,
+          "share": 1990
         }
       ]
     },
@@ -1233,11 +1233,11 @@
         },
         {
           "time": "2026-08-22 05:00",
-          "view": 15759,
-          "reply": 1467,
-          "like": 1205,
-          "coin": 1215,
-          "favorite": 1483,
+          "view": 15800,
+          "reply": 1469,
+          "like": 1207,
+          "coin": 1217,
+          "favorite": 1486,
           "share": 184
         }
       ]
@@ -1323,17 +1323,17 @@
         },
         {
           "time": "2026-08-22 05:00",
-          "view": 15813,
-          "reply": 674,
-          "like": 2482,
+          "view": 15855,
+          "reply": 676,
+          "like": 2483,
           "coin": 4596,
-          "favorite": 2659,
+          "favorite": 2660,
           "share": 412
         }
       ]
     }
   ],
-  "last_update": "2026-08-22 05:02:55",
+  "last_update": "2026-08-22 05:46:07",
   "last_error": "",
   "repo_url": "https://github.com/yinggege666666-alt/bili-video-tracker-2"
 }
