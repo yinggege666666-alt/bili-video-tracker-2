@@ -621,7 +621,7 @@
         },
         {
           "time": "2026-08-22 07:00",
-          "view": 19995,
+          "view": 20008,
           "reply": 341,
           "like": 510,
           "coin": 717,
@@ -891,11 +891,11 @@
         },
         {
           "time": "2026-08-22 07:00",
-          "view": 28864,
+          "view": 28905,
           "reply": 4114,
           "like": 2490,
-          "coin": 3039,
-          "favorite": 2806,
+          "coin": 3041,
+          "favorite": 2809,
           "share": 308
         }
       ]
@@ -1107,11 +1107,11 @@
         },
         {
           "time": "2026-08-22 07:00",
-          "view": 47829,
+          "view": 47841,
           "reply": 1170,
           "like": 4526,
           "coin": 8127,
-          "favorite": 4809,
+          "favorite": 4810,
           "share": 1759
         }
       ]
@@ -1224,7 +1224,7 @@
         },
         {
           "time": "2026-08-22 07:00",
-          "view": 34266,
+          "view": 34312,
           "reply": 733,
           "like": 4919,
           "coin": 8174,
@@ -1341,12 +1341,12 @@
         },
         {
           "time": "2026-08-22 07:00",
-          "view": 15858,
-          "reply": 1469,
-          "like": 1207,
-          "coin": 1217,
-          "favorite": 1489,
-          "share": 184
+          "view": 15925,
+          "reply": 1471,
+          "like": 1209,
+          "coin": 1221,
+          "favorite": 1494,
+          "share": 185
         }
       ]
     },
@@ -1449,17 +1449,17 @@
         },
         {
           "time": "2026-08-22 07:00",
-          "view": 15955,
-          "reply": 678,
-          "like": 2483,
-          "coin": 4596,
-          "favorite": 2662,
+          "view": 16054,
+          "reply": 681,
+          "like": 2484,
+          "coin": 4598,
+          "favorite": 2668,
           "share": 412
         }
       ]
     }
   ],
-  "last_update": "2026-08-22 07:01:50",
+  "last_update": "2026-08-22 07:59:29",
   "last_error": "",
   "repo_url": "https://github.com/yinggege666666-alt/bili-video-tracker-2"
 }
