@@ -222,6 +222,15 @@
           "coin": 329,
           "favorite": 592,
           "share": 37
+        },
+        {
+          "time": "2026-08-21 18:00",
+          "view": 10247,
+          "reply": 62,
+          "like": 390,
+          "coin": 329,
+          "favorite": 592,
+          "share": 37
         }
       ]
     },
@@ -447,6 +456,15 @@
           "coin": 714,
           "favorite": 776,
           "share": 243
+        },
+        {
+          "time": "2026-08-21 18:00",
+          "view": 19633,
+          "reply": 339,
+          "like": 504,
+          "coin": 716,
+          "favorite": 780,
+          "share": 245
         }
       ]
     },
@@ -627,6 +645,15 @@
           "coin": 2834,
           "favorite": 2346,
           "share": 229
+        },
+        {
+          "time": "2026-08-21 18:00",
+          "view": 27327,
+          "reply": 4103,
+          "like": 2222,
+          "coin": 2874,
+          "favorite": 2383,
+          "share": 235
         }
       ]
     },
@@ -753,102 +780,21 @@
           "coin": 8114,
           "favorite": 4782,
           "share": 1758
-        }
-      ]
-    },
-    {
-      "bvid": "BV1VY8A6VEcK",
-      "sort_order": 5,
-      "title": "【8月全新ComfyUI教程】ai绘画，ai视频，ai短剧，ai漫剧，文生视频，图生视频，首尾帧视频，零开始学习comfyui工作流搭建，全程干货无废话！",
-      "owner": "comfyui工作流教程_",
-      "pubdate": 1787237727,
-      "history": [
-        {
-          "time": "2026-08-21 00:00",
-          "view": 5266,
-          "reply": 8,
-          "like": 42,
-          "coin": 82,
-          "favorite": 42,
-          "share": 50
         },
         {
-          "time": "2026-08-21 01:00",
-          "view": 5278,
-          "reply": 18,
-          "like": 42,
-          "coin": 82,
-          "favorite": 42,
-          "share": 50
-        },
-        {
-          "time": "2026-08-21 03:00",
-          "view": 5295,
-          "reply": 25,
-          "like": 42,
-          "coin": 82,
-          "favorite": 41,
-          "share": 50
-        },
-        {
-          "time": "2026-08-21 05:00",
-          "view": 5298,
-          "reply": 25,
-          "like": 42,
-          "coin": 82,
-          "favorite": 42,
-          "share": 50
-        },
-        {
-          "time": "2026-08-21 07:00",
-          "view": 5300,
-          "reply": 25,
-          "like": 42,
-          "coin": 82,
-          "favorite": 42,
-          "share": 50
-        },
-        {
-          "time": "2026-08-21 08:00",
-          "view": 5300,
-          "reply": 25,
-          "like": 42,
-          "coin": 82,
-          "favorite": 42,
-          "share": 50
-        },
-        {
-          "time": "2026-08-21 11:00",
-          "view": 7334,
-          "reply": 55,
-          "like": 117,
-          "coin": 228,
-          "favorite": 117,
-          "share": 50
-        },
-        {
-          "time": "2026-08-21 13:00",
-          "view": 7372,
-          "reply": 64,
-          "like": 143,
-          "coin": 274,
-          "favorite": 141,
-          "share": 50
-        },
-        {
-          "time": "2026-08-21 16:00",
-          "view": 7406,
-          "reply": 94,
-          "like": 166,
-          "coin": 318,
-          "favorite": 170,
-          "share": 51
+          "time": "2026-08-21 18:00",
+          "view": 47293,
+          "reply": 1159,
+          "like": 4519,
+          "coin": 8118,
+          "favorite": 4791,
+          "share": 1758
         }
       ]
     },
     {
       "bvid": "BV1aegs6pESF",
-      "sort_order": 6,
+      "sort_order": 5,
       "title": "【ComfyUI教程】2027新版秋叶Comfyui整合包中文版无私分享！全面适配50 40 30系显卡，Win+Mac一键安装，秋叶comfyui整合包下载",
       "owner": "ComfyUI中文整合包安装",
       "pubdate": 1786634549,
@@ -870,12 +816,21 @@
           "coin": 7955,
           "favorite": 4829,
           "share": 1986
+        },
+        {
+          "time": "2026-08-21 18:00",
+          "view": 33090,
+          "reply": 707,
+          "like": 4903,
+          "coin": 8159,
+          "favorite": 4938,
+          "share": 1986
         }
       ]
     },
     {
       "bvid": "BV1aLbD6KETB",
-      "sort_order": 7,
+      "sort_order": 6,
       "title": "【ComfyUI教学】从环境部署、界面认识到出图/出视频，手把手教你用秋叶ComfyUI玩转AI赛道，附秋叶最新ComfyUI整合包解压即用，效率直接拉满！",
       "owner": "ComfyUI系统教学",
       "pubdate": 1786869318,
@@ -897,12 +852,21 @@
           "coin": 1068,
           "favorite": 1182,
           "share": 164
+        },
+        {
+          "time": "2026-08-21 18:00",
+          "view": 13799,
+          "reply": 1288,
+          "like": 992,
+          "coin": 1079,
+          "favorite": 1201,
+          "share": 167
         }
       ]
     },
     {
       "bvid": "BV1yabX6AEsA",
-      "sort_order": 8,
+      "sort_order": 7,
       "title": "【秋叶ComfyUI】秋叶最新发布！全中文界面支持中文提示词！全面适配50 40 30系显卡，Win+Mac一键安装，解压即用（附零基精通教程）效率直接拉满！",
       "owner": "ComfyUI最新版整合包",
       "pubdate": 1786883522,
@@ -915,11 +879,20 @@
           "coin": 4151,
           "favorite": 2365,
           "share": 404
+        },
+        {
+          "time": "2026-08-21 18:00",
+          "view": 13883,
+          "reply": 573,
+          "like": 2334,
+          "coin": 4356,
+          "favorite": 2477,
+          "share": 405
         }
       ]
     }
   ],
-  "last_update": "2026-08-21 16:09:55",
+  "last_update": "2026-08-21 18:01:50",
   "last_error": "",
   "repo_url": "https://github.com/yinggege666666-alt/bili-video-tracker-2"
 }
