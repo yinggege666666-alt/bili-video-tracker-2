@@ -882,11 +882,11 @@
         },
         {
           "time": "2026-08-26 04:00",
-          "view": 10299,
+          "view": 10300,
           "reply": 66,
           "like": 391,
           "coin": 331,
-          "favorite": 593,
+          "favorite": 594,
           "share": 37
         }
       ]
@@ -1773,7 +1773,7 @@
         },
         {
           "time": "2026-08-26 04:00",
-          "view": 23733,
+          "view": 23734,
           "reply": 397,
           "like": 585,
           "coin": 769,
@@ -2619,7 +2619,7 @@
         },
         {
           "time": "2026-08-26 04:00",
-          "view": 40632,
+          "view": 40634,
           "reply": 6735,
           "like": 3480,
           "coin": 4246,
@@ -3411,11 +3411,11 @@
         },
         {
           "time": "2026-08-26 04:00",
-          "view": 55945,
+          "view": 55946,
           "reply": 1342,
           "like": 5058,
           "coin": 9048,
-          "favorite": 5438,
+          "favorite": 5439,
           "share": 1782
         }
       ]
@@ -4797,7 +4797,7 @@
         },
         {
           "time": "2026-08-26 04:00",
-          "view": 35357,
+          "view": 35361,
           "reply": 3250,
           "like": 2312,
           "coin": 2342,
@@ -5481,7 +5481,7 @@
         },
         {
           "time": "2026-08-26 04:00",
-          "view": 29331,
+          "view": 29340,
           "reply": 1367,
           "like": 4244,
           "coin": 7751,
@@ -5491,7 +5491,7 @@
       ]
     }
   ],
-  "last_update": "2026-08-26 04:51:45",
-  "last_error": "",
+  "last_update": "2026-08-26 04:58:17",
+  "last_error": "获取 BV1aegs6pESF 失败：HTTP Error 503: Service Unavailable",
   "repo_url": "https://github.com/yinggege666666-alt/bili-video-tracker-2"
 }
