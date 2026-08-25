@@ -798,6 +798,15 @@
           "coin": 331,
           "favorite": 593,
           "share": 37
+        },
+        {
+          "time": "2026-08-25 13:00",
+          "view": 10290,
+          "reply": 66,
+          "like": 391,
+          "coin": 331,
+          "favorite": 593,
+          "share": 37
         }
       ]
     },
@@ -805,7 +814,7 @@
       "bvid": "BV19buq6JEJD",
       "sort_order": 2,
       "title": "【全网首发】minimaxh3漫剧从零基础到精通，超详细从零开始学习comfyui工作流搭建（2026新手入门实用版）全程干货无废话（附最新Comfyui整合包",
-      "owner": "minimaxh3漫剧",
+      "owner": "Comfyui全新教程",
       "pubdate": 1786433881,
       "history": [
         {
@@ -1599,6 +1608,15 @@
           "coin": 756,
           "favorite": 911,
           "share": 254
+        },
+        {
+          "time": "2026-08-25 13:00",
+          "view": 22873,
+          "reply": 386,
+          "like": 568,
+          "coin": 758,
+          "favorite": 914,
+          "share": 254
         }
       ]
     },
@@ -2355,6 +2373,15 @@
           "coin": 3969,
           "favorite": 3592,
           "share": 380
+        },
+        {
+          "time": "2026-08-25 13:00",
+          "view": 38516,
+          "reply": 5519,
+          "like": 3278,
+          "coin": 3992,
+          "favorite": 3610,
+          "share": 380
         }
       ]
     },
@@ -3057,6 +3084,15 @@
           "coin": 8617,
           "favorite": 5177,
           "share": 1775
+        },
+        {
+          "time": "2026-08-25 13:00",
+          "view": 55046,
+          "reply": 1308,
+          "like": 4927,
+          "coin": 8819,
+          "favorite": 5282,
+          "share": 1775
         }
       ]
     },
@@ -3659,6 +3695,15 @@
           "like": 6008,
           "coin": 10140,
           "favorite": 6072,
+          "share": 2458
+        },
+        {
+          "time": "2026-08-25 13:00",
+          "view": 45294,
+          "reply": 1133,
+          "like": 6109,
+          "coin": 10341,
+          "favorite": 6173,
           "share": 2458
         }
       ]
@@ -4263,6 +4308,15 @@
           "coin": 2088,
           "favorite": 2597,
           "share": 258
+        },
+        {
+          "time": "2026-08-25 13:00",
+          "view": 31395,
+          "reply": 2632,
+          "like": 2102,
+          "coin": 2105,
+          "favorite": 2627,
+          "share": 260
         }
       ]
     },
@@ -4857,11 +4911,20 @@
           "coin": 7094,
           "favorite": 4139,
           "share": 738
+        },
+        {
+          "time": "2026-08-25 13:00",
+          "view": 26802,
+          "reply": 1228,
+          "like": 3968,
+          "coin": 7301,
+          "favorite": 4251,
+          "share": 739
         }
       ]
     }
   ],
-  "last_update": "2026-08-25 11:28:10",
+  "last_update": "2026-08-25 13:19:03",
   "last_error": "",
   "repo_url": "https://github.com/yinggege666666-alt/bili-video-tracker-2"
 }
