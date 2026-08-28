@@ -1959,6 +1959,15 @@
           "coin": 789,
           "favorite": 1068,
           "share": 265
+        },
+        {
+          "time": "2026-08-29 07:00",
+          "view": 26494,
+          "reply": 438,
+          "like": 633,
+          "coin": 789,
+          "favorite": 1068,
+          "share": 265
         }
       ]
     },
@@ -2913,6 +2922,15 @@
           "coin": 5066,
           "favorite": 4513,
           "share": 436
+        },
+        {
+          "time": "2026-08-29 07:00",
+          "view": 49057,
+          "reply": 8538,
+          "like": 4180,
+          "coin": 5070,
+          "favorite": 4518,
+          "share": 436
         }
       ]
     },
@@ -3813,6 +3831,15 @@
           "coin": 10185,
           "favorite": 6132,
           "share": 1800
+        },
+        {
+          "time": "2026-08-29 07:00",
+          "view": 60490,
+          "reply": 1485,
+          "like": 5701,
+          "coin": 10185,
+          "favorite": 6132,
+          "share": 1800
         }
       ]
     },
@@ -4609,6 +4636,15 @@
         {
           "time": "2026-08-29 06:00",
           "view": 68050,
+          "reply": 1737,
+          "like": 7433,
+          "coin": 12783,
+          "favorite": 7549,
+          "share": 2475
+        },
+        {
+          "time": "2026-08-29 07:00",
+          "view": 68078,
           "reply": 1737,
           "like": 7433,
           "coin": 12783,
@@ -5415,6 +5451,15 @@
           "coin": 2918,
           "favorite": 4142,
           "share": 468
+        },
+        {
+          "time": "2026-08-29 07:00",
+          "view": 45886,
+          "reply": 4102,
+          "like": 3855,
+          "coin": 2918,
+          "favorite": 4143,
+          "share": 468
         }
       ]
     },
@@ -6207,11 +6252,20 @@
           "coin": 9973,
           "favorite": 5944,
           "share": 1559
+        },
+        {
+          "time": "2026-08-29 07:00",
+          "view": 37853,
+          "reply": 1747,
+          "like": 5485,
+          "coin": 9973,
+          "favorite": 5944,
+          "share": 1559
         }
       ]
     }
   ],
-  "last_update": "2026-08-29 06:49:15",
+  "last_update": "2026-08-29 07:24:38",
   "last_error": "获取 BV1i1uB6bEop 失败：62012",
   "repo_url": "https://github.com/yinggege666666-alt/bili-video-tracker-2"
 }
