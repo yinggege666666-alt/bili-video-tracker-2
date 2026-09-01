@@ -3024,7 +3024,7 @@
         },
         {
           "time": "2026-09-01 22:00",
-          "view": 31563,
+          "view": 31597,
           "reply": 481,
           "like": 736,
           "coin": 921,
@@ -4770,11 +4770,11 @@
         },
         {
           "time": "2026-09-01 22:00",
-          "view": 56653,
-          "reply": 9678,
+          "view": 56689,
+          "reply": 9681,
           "like": 5412,
-          "coin": 5513,
-          "favorite": 5809,
+          "coin": 5515,
+          "favorite": 5810,
           "share": 719
         }
       ]
@@ -6453,11 +6453,11 @@
         },
         {
           "time": "2026-09-01 22:00",
-          "view": 69221,
+          "view": 69253,
           "reply": 1626,
-          "like": 5931,
+          "like": 5932,
           "coin": 10493,
-          "favorite": 6429,
+          "favorite": 6428,
           "share": 1822
         }
       ]
@@ -8046,8 +8046,8 @@
         },
         {
           "time": "2026-09-01 22:00",
-          "view": 78442,
-          "reply": 2258,
+          "view": 78508,
+          "reply": 2263,
           "like": 8182,
           "coin": 14104,
           "favorite": 8329,
@@ -9639,11 +9639,11 @@
         },
         {
           "time": "2026-09-01 22:00",
-          "view": 57583,
-          "reply": 4939,
-          "like": 4689,
-          "coin": 3517,
-          "favorite": 5307,
+          "view": 57757,
+          "reply": 4944,
+          "like": 4699,
+          "coin": 3525,
+          "favorite": 5324,
           "share": 573
         }
       ]
@@ -11220,11 +11220,20 @@
           "coin": 11602,
           "favorite": 6871,
           "share": 2070
+        },
+        {
+          "time": "2026-09-01 22:00",
+          "view": 47524,
+          "reply": 1884,
+          "like": 6375,
+          "coin": 11607,
+          "favorite": 6873,
+          "share": 2070
         }
       ]
     }
   ],
-  "last_update": "2026-09-01 22:31:07",
-  "last_error": "获取 BV1yabX6AEsA 失败：The read operation timed out",
+  "last_update": "2026-09-01 22:56:09",
+  "last_error": "",
   "repo_url": "https://github.com/yinggege666666-alt/bili-video-tracker-2"
 }
