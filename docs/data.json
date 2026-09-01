@@ -11305,7 +11305,7 @@
       ]
     }
   ],
-  "last_update": "2026-09-02 00:55:36",
-  "last_error": "",
+  "last_update": "2026-09-02 01:29:07",
+  "last_error": "获取 BV1i1uB6bEop 失败：HTTP Error 500: Internal Server Error；获取 BV19buq6JEJD 失败：代理响应中没有 JSON；获取 BV1mngW6GEfr 失败：HTTP Error 500: Internal Server Error",
   "repo_url": "https://github.com/yinggege666666-alt/bili-video-tracker-2"
 }
