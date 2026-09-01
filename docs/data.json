@@ -1203,6 +1203,15 @@
           "coin": 331,
           "favorite": 595,
           "share": 37
+        },
+        {
+          "time": "2026-09-01 19:00",
+          "view": 10321,
+          "reply": 67,
+          "like": 392,
+          "coin": 331,
+          "favorite": 595,
+          "share": 37
         }
       ]
     },
@@ -2958,6 +2967,15 @@
           "coin": 921,
           "favorite": 1271,
           "share": 316
+        },
+        {
+          "time": "2026-09-01 19:00",
+          "view": 31362,
+          "reply": 481,
+          "like": 733,
+          "coin": 921,
+          "favorite": 1271,
+          "share": 316
         }
       ]
     },
@@ -4667,6 +4685,15 @@
           "like": 5288,
           "coin": 5492,
           "favorite": 5598,
+          "share": 667
+        },
+        {
+          "time": "2026-09-01 19:00",
+          "view": 56370,
+          "reply": 9646,
+          "like": 5292,
+          "coin": 5495,
+          "favorite": 5599,
           "share": 667
         }
       ]
@@ -7881,6 +7908,15 @@
           "coin": 14091,
           "favorite": 8317,
           "share": 2493
+        },
+        {
+          "time": "2026-09-01 19:00",
+          "view": 78060,
+          "reply": 2238,
+          "like": 8170,
+          "coin": 14091,
+          "favorite": 8318,
+          "share": 2493
         }
       ]
     },
@@ -9438,6 +9474,15 @@
           "coin": 3484,
           "favorite": 5014,
           "share": 519
+        },
+        {
+          "time": "2026-09-01 19:00",
+          "view": 56679,
+          "reply": 4914,
+          "like": 4532,
+          "coin": 3490,
+          "favorite": 5026,
+          "share": 519
         }
       ]
     },
@@ -10990,7 +11035,7 @@
       ]
     }
   ],
-  "last_update": "2026-09-01 18:52:19",
-  "last_error": "",
+  "last_update": "2026-09-01 19:29:13",
+  "last_error": "获取 BV1VV3X6eEKu 失败：代理响应中没有 JSON；获取 BV1yabX6AEsA 失败：代理响应中没有 JSON",
   "repo_url": "https://github.com/yinggege666666-alt/bili-video-tracker-2"
 }
