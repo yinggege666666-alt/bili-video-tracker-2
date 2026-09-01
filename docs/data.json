@@ -4,7 +4,7 @@
       "bvid": "BV1i1uB6bEop",
       "sort_order": 1,
       "title": "【ComfyUI】大佬发布！全中文界面支持中文提示词！全面适配50 40 30系显卡，Win+Mac一键安装，解压即用（附零基精通教程）效率直接拉满！",
-      "owner": "-comfyui秋叶",
+      "owner": "bili_454536877",
       "pubdate": 1786455472,
       "history": [
         {
@@ -1170,6 +1170,15 @@
         },
         {
           "time": "2026-09-01 15:00",
+          "view": 10320,
+          "reply": 67,
+          "like": 392,
+          "coin": 331,
+          "favorite": 595,
+          "share": 37
+        },
+        {
+          "time": "2026-09-01 16:00",
           "view": 10320,
           "reply": 67,
           "like": 392,
@@ -2904,6 +2913,15 @@
           "coin": 915,
           "favorite": 1264,
           "share": 314
+        },
+        {
+          "time": "2026-09-01 16:00",
+          "view": 31135,
+          "reply": 469,
+          "like": 729,
+          "coin": 915,
+          "favorite": 1266,
+          "share": 314
         }
       ]
     },
@@ -4587,6 +4605,15 @@
           "coin": 5477,
           "favorite": 5585,
           "share": 664
+        },
+        {
+          "time": "2026-09-01 16:00",
+          "view": 56110,
+          "reply": 9617,
+          "like": 5276,
+          "coin": 5479,
+          "favorite": 5589,
+          "share": 665
         }
       ]
     },
@@ -6216,6 +6243,15 @@
           "coin": 10478,
           "favorite": 6405,
           "share": 1819
+        },
+        {
+          "time": "2026-09-01 16:00",
+          "view": 68834,
+          "reply": 1609,
+          "like": 5922,
+          "coin": 10482,
+          "favorite": 6411,
+          "share": 1821
         }
       ]
     },
@@ -7745,6 +7781,15 @@
           "like": 8064,
           "coin": 13881,
           "favorite": 8207,
+          "share": 2493
+        },
+        {
+          "time": "2026-09-01 16:00",
+          "view": 77709,
+          "reply": 2214,
+          "like": 8066,
+          "coin": 13883,
+          "favorite": 8209,
           "share": 2493
         }
       ]
@@ -9276,6 +9321,15 @@
           "coin": 3447,
           "favorite": 4933,
           "share": 513
+        },
+        {
+          "time": "2026-09-01 16:00",
+          "view": 55791,
+          "reply": 4873,
+          "like": 4472,
+          "coin": 3451,
+          "favorite": 4947,
+          "share": 515
         }
       ]
     },
@@ -10797,11 +10851,20 @@
           "coin": 11392,
           "favorite": 6760,
           "share": 2070
+        },
+        {
+          "time": "2026-09-01 16:00",
+          "view": 42904,
+          "reply": 1854,
+          "like": 6266,
+          "coin": 11393,
+          "favorite": 6762,
+          "share": 2070
         }
       ]
     }
   ],
-  "last_update": "2026-09-01 15:51:31",
+  "last_update": "2026-09-01 16:31:58",
   "last_error": "",
   "repo_url": "https://github.com/yinggege666666-alt/bili-video-tracker-2"
 }
