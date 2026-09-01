@@ -3042,7 +3042,7 @@
         },
         {
           "time": "2026-09-02 00:00",
-          "view": 31672,
+          "view": 31683,
           "reply": 482,
           "like": 737,
           "coin": 923,
@@ -4803,6 +4803,15 @@
           "coin": 5523,
           "favorite": 5819,
           "share": 720
+        },
+        {
+          "time": "2026-09-02 00:00",
+          "view": 56857,
+          "reply": 9697,
+          "like": 5423,
+          "coin": 5526,
+          "favorite": 5826,
+          "share": 721
         }
       ]
     },
@@ -6486,6 +6495,15 @@
           "coin": 10493,
           "favorite": 6428,
           "share": 1822
+        },
+        {
+          "time": "2026-09-02 00:00",
+          "view": 69338,
+          "reply": 1627,
+          "like": 5935,
+          "coin": 10497,
+          "favorite": 6433,
+          "share": 1822
         }
       ]
     },
@@ -8082,7 +8100,7 @@
         },
         {
           "time": "2026-09-02 00:00",
-          "view": 78716,
+          "view": 78732,
           "reply": 2274,
           "like": 8185,
           "coin": 14110,
@@ -9681,6 +9699,15 @@
           "coin": 3525,
           "favorite": 5324,
           "share": 573
+        },
+        {
+          "time": "2026-09-02 00:00",
+          "view": 58316,
+          "reply": 4957,
+          "like": 4725,
+          "coin": 3545,
+          "favorite": 5366,
+          "share": 577
         }
       ]
     },
@@ -11268,8 +11295,8 @@
         },
         {
           "time": "2026-09-02 00:00",
-          "view": 48578,
-          "reply": 1896,
+          "view": 48678,
+          "reply": 1897,
           "like": 6377,
           "coin": 11611,
           "favorite": 6877,
@@ -11278,7 +11305,7 @@
       ]
     }
   ],
-  "last_update": "2026-09-02 00:44:29",
-  "last_error": "获取 BV19buq6JEJD 失败：代理响应中没有 JSON；获取 BV1mngW6GEfr 失败：代理响应中没有 JSON；获取 BV1VV3X6eEKu 失败：代理响应中没有 JSON",
+  "last_update": "2026-09-02 00:55:36",
+  "last_error": "",
   "repo_url": "https://github.com/yinggege666666-alt/bili-video-tracker-2"
 }
