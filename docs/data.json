@@ -4239,7 +4239,7 @@
         },
         {
           "time": "2026-09-04 22:00",
-          "view": 35390,
+          "view": 35409,
           "reply": 550,
           "like": 886,
           "coin": 1162,
@@ -6606,7 +6606,7 @@
         },
         {
           "time": "2026-09-04 22:00",
-          "view": 60000,
+          "view": 60014,
           "reply": 10350,
           "like": 5651,
           "coin": 5772,
@@ -8901,11 +8901,11 @@
         },
         {
           "time": "2026-09-04 22:00",
-          "view": 72695,
+          "view": 72709,
           "reply": 1777,
           "like": 6072,
           "coin": 10619,
-          "favorite": 6620,
+          "favorite": 6619,
           "share": 1836
         }
       ]
@@ -11097,11 +11097,11 @@
         },
         {
           "time": "2026-09-04 22:00",
-          "view": 84672,
-          "reply": 2657,
-          "like": 8603,
+          "view": 84721,
+          "reply": 2661,
+          "like": 8604,
           "coin": 14822,
-          "favorite": 8777,
+          "favorite": 8780,
           "share": 2508
         }
       ]
@@ -13284,11 +13284,11 @@
         },
         {
           "time": "2026-09-04 22:00",
-          "view": 68821,
-          "reply": 5847,
-          "like": 5338,
+          "view": 68889,
+          "reply": 5874,
+          "like": 5341,
           "coin": 4063,
-          "favorite": 6197,
+          "favorite": 6200,
           "share": 626
         }
       ]
@@ -15480,17 +15480,17 @@
         },
         {
           "time": "2026-09-04 22:00",
-          "view": 61539,
+          "view": 61550,
           "reply": 2158,
-          "like": 7792,
+          "like": 7793,
           "coin": 12279,
-          "favorite": 7298,
+          "favorite": 7299,
           "share": 2085
         }
       ]
     }
   ],
-  "last_update": "2026-09-04 22:29:26",
+  "last_update": "2026-09-04 22:51:49",
   "last_error": "",
   "repo_url": "https://github.com/yinggege666666-alt/bili-video-tracker-2"
 }
