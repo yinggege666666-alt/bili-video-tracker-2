@@ -4509,7 +4509,7 @@
         },
         {
           "time": "2026-09-05 13:00",
-          "view": 35713,
+          "view": 35718,
           "reply": 552,
           "like": 888,
           "coin": 1164,
@@ -6999,6 +6999,15 @@
           "coin": 5790,
           "favorite": 6531,
           "share": 796
+        },
+        {
+          "time": "2026-09-05 13:00",
+          "view": 60429,
+          "reply": 10375,
+          "like": 5814,
+          "coin": 5790,
+          "favorite": 6532,
+          "share": 796
         }
       ]
     },
@@ -9423,7 +9432,7 @@
         },
         {
           "time": "2026-09-05 13:00",
-          "view": 73083,
+          "view": 73101,
           "reply": 1792,
           "like": 6076,
           "coin": 10623,
@@ -11751,6 +11760,15 @@
           "coin": 14837,
           "favorite": 8790,
           "share": 2509
+        },
+        {
+          "time": "2026-09-05 13:00",
+          "view": 85484,
+          "reply": 2704,
+          "like": 8621,
+          "coin": 14841,
+          "favorite": 8793,
+          "share": 2509
         }
       ]
     },
@@ -14063,6 +14081,15 @@
           "like": 5410,
           "coin": 4124,
           "favorite": 6289,
+          "share": 631
+        },
+        {
+          "time": "2026-09-05 13:00",
+          "view": 70296,
+          "reply": 6000,
+          "like": 5418,
+          "coin": 4130,
+          "favorite": 6296,
           "share": 631
         }
       ]
@@ -16389,8 +16416,8 @@
         },
         {
           "time": "2026-09-05 13:00",
-          "view": 61840,
-          "reply": 2193,
+          "view": 61851,
+          "reply": 2195,
           "like": 7806,
           "coin": 12293,
           "favorite": 7321,
@@ -16399,7 +16426,7 @@
       ]
     }
   ],
-  "last_update": "2026-09-05 13:27:38",
-  "last_error": "获取 BV1mngW6GEfr 失败：代理响应中没有 JSON；获取 BV1aegs6pESF 失败：代理响应中没有 JSON；获取 BV1aLbD6KETB 失败：代理响应中没有 JSON",
+  "last_update": "2026-09-05 13:49:30",
+  "last_error": "",
   "repo_url": "https://github.com/yinggege666666-alt/bili-video-tracker-2"
 }
