@@ -4774,7 +4774,7 @@
       "bvid": "BV1mngW6GEfr",
       "sort_order": 3,
       "title": "【秋叶ComfyUI教程】2026新版秋叶Comfyui整合包无私分享！全面适配50 40 30显卡，Win+Mac一键安装，解压即用（附零基精通教程）效率拉满",
-      "owner": "comfyui系统教程",
+      "owner": "秋叶aaaaki",
       "pubdate": 1786612696,
       "history": [
         {
@@ -7376,6 +7376,15 @@
           "like": 5855,
           "coin": 5834,
           "favorite": 6579,
+          "share": 799
+        },
+        {
+          "time": "2026-09-06 04:00",
+          "view": 61036,
+          "reply": 10445,
+          "like": 5885,
+          "coin": 5894,
+          "favorite": 6600,
           "share": 799
         }
       ]
@@ -12372,6 +12381,15 @@
           "coin": 14944,
           "favorite": 8858,
           "share": 2512
+        },
+        {
+          "time": "2026-09-06 04:00",
+          "view": 86425,
+          "reply": 2770,
+          "like": 8691,
+          "coin": 14944,
+          "favorite": 8859,
+          "share": 2512
         }
       ]
     },
@@ -17259,11 +17277,20 @@
           "coin": 12410,
           "favorite": 7394,
           "share": 2088
+        },
+        {
+          "time": "2026-09-06 04:00",
+          "view": 62202,
+          "reply": 2235,
+          "like": 7872,
+          "coin": 12414,
+          "favorite": 7396,
+          "share": 2088
         }
       ]
     }
   ],
-  "last_update": "2026-09-06 03:49:16",
-  "last_error": "",
+  "last_update": "2026-09-06 04:28:11",
+  "last_error": "获取 BV1i1uB6bEop 失败：代理响应中没有 JSON；获取 BV19buq6JEJD 失败：代理响应中没有 JSON；获取 BV1VV3X6eEKu 失败：代理响应中没有 JSON",
   "repo_url": "https://github.com/yinggege666666-alt/bili-video-tracker-2"
 }
