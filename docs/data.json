@@ -5328,11 +5328,11 @@
         },
         {
           "time": "2026-09-07 11:00",
-          "view": 38612,
+          "view": 38626,
           "reply": 570,
           "like": 957,
           "coin": 1269,
-          "favorite": 1593,
+          "favorite": 1594,
           "share": 453
         }
       ]
@@ -8217,11 +8217,11 @@
         },
         {
           "time": "2026-09-07 11:00",
-          "view": 62346,
-          "reply": 10555,
-          "like": 5943,
+          "view": 62367,
+          "reply": 10556,
+          "like": 5944,
           "coin": 5951,
-          "favorite": 6670,
+          "favorite": 6671,
           "share": 806
         }
       ]
@@ -11043,7 +11043,7 @@
         },
         {
           "time": "2026-09-07 11:00",
-          "view": 74969,
+          "view": 74987,
           "reply": 1868,
           "like": 6248,
           "coin": 10905,
@@ -13788,11 +13788,11 @@
         },
         {
           "time": "2026-09-07 11:00",
-          "view": 88545,
-          "reply": 2908,
-          "like": 8853,
+          "view": 88591,
+          "reply": 2909,
+          "like": 8854,
           "coin": 15109,
-          "favorite": 8974,
+          "favorite": 8976,
           "share": 2518
         }
       ]
@@ -13801,7 +13801,7 @@
       "bvid": "BV1aLbD6KETB",
       "sort_order": 6,
       "title": "【秋叶ComfyUI教学】从环境部署、界面认识到出图/出视频，手把手教你用秋叶ComfyUI玩转AI赛道，附秋叶最新ComfyUI整合包解压即用，效率直接拉满！",
-      "owner": "秋叶aaaki_",
+      "owner": "Comfyui系统教学",
       "pubdate": 1786869318,
       "history": [
         {
@@ -16497,11 +16497,11 @@
         },
         {
           "time": "2026-09-07 11:00",
-          "view": 75897,
-          "reply": 6254,
-          "like": 5702,
-          "coin": 4372,
-          "favorite": 6659,
+          "view": 75948,
+          "reply": 6256,
+          "like": 5707,
+          "coin": 4376,
+          "favorite": 6663,
           "share": 656
         }
       ]
@@ -19233,7 +19233,7 @@
         },
         {
           "time": "2026-09-07 11:00",
-          "view": 63034,
+          "view": 63047,
           "reply": 2316,
           "like": 7997,
           "coin": 12635,
@@ -19243,7 +19243,7 @@
       ]
     }
   ],
-  "last_update": "2026-09-07 11:31:26",
+  "last_update": "2026-09-07 11:52:53",
   "last_error": "",
   "repo_url": "https://github.com/yinggege666666-alt/bili-video-tracker-2"
 }
