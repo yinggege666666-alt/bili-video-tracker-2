@@ -2652,6 +2652,15 @@
           "coin": 331,
           "favorite": 595,
           "share": 37
+        },
+        {
+          "time": "2026-09-08 17:00",
+          "view": 10328,
+          "reply": 67,
+          "like": 392,
+          "coin": 331,
+          "favorite": 595,
+          "share": 37
         }
       ]
     },
@@ -5832,11 +5841,11 @@
         },
         {
           "time": "2026-09-08 17:00",
-          "view": 40272,
+          "view": 40299,
           "reply": 597,
           "like": 1033,
           "coin": 1377,
-          "favorite": 1690,
+          "favorite": 1692,
           "share": 494
         }
       ]
@@ -12075,6 +12084,15 @@
           "coin": 10950,
           "favorite": 6905,
           "share": 1856
+        },
+        {
+          "time": "2026-09-08 17:00",
+          "view": 76587,
+          "reply": 1953,
+          "like": 6301,
+          "coin": 10950,
+          "favorite": 6908,
+          "share": 1856
         }
       ]
     },
@@ -15066,11 +15084,11 @@
         },
         {
           "time": "2026-09-08 17:00",
-          "view": 91839,
-          "reply": 3144,
-          "like": 9039,
-          "coin": 15376,
-          "favorite": 9166,
+          "view": 91916,
+          "reply": 3145,
+          "like": 9041,
+          "coin": 15378,
+          "favorite": 9170,
           "share": 2526
         }
       ]
@@ -18027,12 +18045,12 @@
         },
         {
           "time": "2026-09-08 17:00",
-          "view": 79570,
-          "reply": 6453,
-          "like": 5846,
-          "coin": 4498,
-          "favorite": 6857,
-          "share": 687
+          "view": 79619,
+          "reply": 6454,
+          "like": 5848,
+          "coin": 4500,
+          "favorite": 6862,
+          "share": 688
         }
       ]
     },
@@ -21034,7 +21052,7 @@
       ]
     }
   ],
-  "last_update": "2026-09-08 17:32:16",
-  "last_error": "获取 BV1i1uB6bEop 失败：代理响应中没有 JSON；获取 BV1VV3X6eEKu 失败：代理响应中没有 JSON；获取 BV1yabX6AEsA 失败：The read operation timed out",
+  "last_update": "2026-09-08 17:53:50",
+  "last_error": "获取 BV1mngW6GEfr 失败：HTTP Error 500: Internal Server Error；获取 BV1yabX6AEsA 失败：代理响应中没有 JSON",
   "repo_url": "https://github.com/yinggege666666-alt/bili-video-tracker-2"
 }
