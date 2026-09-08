@@ -5949,9 +5949,9 @@
         },
         {
           "time": "2026-09-08 23:00",
-          "view": 40740,
+          "view": 40771,
           "reply": 598,
-          "like": 1039,
+          "like": 1040,
           "coin": 1381,
           "favorite": 1709,
           "share": 503
@@ -9159,6 +9159,15 @@
           "coin": 6018,
           "favorite": 6775,
           "share": 812
+        },
+        {
+          "time": "2026-09-08 23:00",
+          "view": 64098,
+          "reply": 10757,
+          "like": 6017,
+          "coin": 6018,
+          "favorite": 6782,
+          "share": 812
         }
       ]
     },
@@ -12294,12 +12303,12 @@
         },
         {
           "time": "2026-09-08 23:00",
-          "view": 77002,
+          "view": 77019,
           "reply": 1969,
           "like": 6314,
           "coin": 10956,
           "favorite": 6928,
-          "share": 1860
+          "share": 1861
         }
       ]
     },
@@ -15345,11 +15354,11 @@
         },
         {
           "time": "2026-09-08 23:00",
-          "view": 92955,
-          "reply": 3202,
+          "view": 93006,
+          "reply": 3203,
           "like": 9066,
           "coin": 15398,
-          "favorite": 9196,
+          "favorite": 9197,
           "share": 2529
         }
       ]
@@ -18360,12 +18369,12 @@
         },
         {
           "time": "2026-09-08 23:00",
-          "view": 80217,
-          "reply": 6484,
-          "like": 5861,
+          "view": 80253,
+          "reply": 6486,
+          "like": 5862,
           "coin": 4507,
-          "favorite": 6892,
-          "share": 689
+          "favorite": 6894,
+          "share": 690
         }
       ]
     },
@@ -21411,17 +21420,17 @@
         },
         {
           "time": "2026-09-08 23:00",
-          "view": 64307,
+          "view": 64316,
           "reply": 2435,
           "like": 8134,
           "coin": 12877,
-          "favorite": 7715,
+          "favorite": 7716,
           "share": 2090
         }
       ]
     }
   ],
-  "last_update": "2026-09-08 23:33:39",
-  "last_error": "获取 BV1mngW6GEfr 失败：The read operation timed out",
+  "last_update": "2026-09-08 23:54:09",
+  "last_error": "",
   "repo_url": "https://github.com/yinggege666666-alt/bili-video-tracker-2"
 }
