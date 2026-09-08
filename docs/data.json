@@ -9369,11 +9369,11 @@
         },
         {
           "time": "2026-09-09 07:00",
-          "view": 64337,
-          "reply": 10771,
-          "like": 6031,
-          "coin": 6029,
-          "favorite": 6799,
+          "view": 64352,
+          "reply": 10772,
+          "like": 6032,
+          "coin": 6031,
+          "favorite": 6800,
           "share": 812
         }
       ]
@@ -12582,11 +12582,11 @@
         },
         {
           "time": "2026-09-09 07:00",
-          "view": 77134,
+          "view": 77142,
           "reply": 1970,
           "like": 6318,
           "coin": 10956,
-          "favorite": 6933,
+          "favorite": 6934,
           "share": 1861
         }
       ]
@@ -15705,11 +15705,11 @@
         },
         {
           "time": "2026-09-09 07:00",
-          "view": 93534,
-          "reply": 3208,
-          "like": 9069,
-          "coin": 15400,
-          "favorite": 9202,
+          "view": 93552,
+          "reply": 3209,
+          "like": 9070,
+          "coin": 15402,
+          "favorite": 9203,
           "share": 2529
         }
       ]
@@ -18792,11 +18792,11 @@
         },
         {
           "time": "2026-09-09 07:00",
-          "view": 80576,
+          "view": 80587,
           "reply": 6491,
           "like": 5906,
           "coin": 4578,
-          "favorite": 6949,
+          "favorite": 6950,
           "share": 691
         }
       ]
@@ -21906,7 +21906,7 @@
         },
         {
           "time": "2026-09-09 07:00",
-          "view": 64447,
+          "view": 64454,
           "reply": 2438,
           "like": 8136,
           "coin": 12877,
@@ -21916,7 +21916,7 @@
       ]
     }
   ],
-  "last_update": "2026-09-09 07:27:50",
-  "last_error": "",
+  "last_update": "2026-09-09 07:49:32",
+  "last_error": "获取 BV1i1uB6bEop 失败：代理响应中没有 JSON；获取 BV19buq6JEJD 失败：代理响应中没有 JSON",
   "repo_url": "https://github.com/yinggege666666-alt/bili-video-tracker-2"
 }
