@@ -5967,11 +5967,11 @@
         },
         {
           "time": "2026-09-09 00:00",
-          "view": 40828,
+          "view": 40844,
           "reply": 598,
           "like": 1041,
           "coin": 1383,
-          "favorite": 1712,
+          "favorite": 1715,
           "share": 503
         }
       ]
@@ -5980,7 +5980,7 @@
       "bvid": "BV1mngW6GEfr",
       "sort_order": 3,
       "title": "【秋叶ComfyUI教程】2026新版秋叶Comfyui整合包无私分享！全面适配50 40 30显卡，Win+Mac一键安装，解压即用（附零基精通教程）效率拉满",
-      "owner": "comfyui系统教程",
+      "owner": "秋叶aaaaki",
       "pubdate": 1786612696,
       "history": [
         {
@@ -9189,11 +9189,11 @@
         },
         {
           "time": "2026-09-09 00:00",
-          "view": 64133,
+          "view": 64145,
           "reply": 10762,
           "like": 6022,
           "coin": 6022,
-          "favorite": 6787,
+          "favorite": 6789,
           "share": 812
         }
       ]
@@ -12339,8 +12339,8 @@
         },
         {
           "time": "2026-09-09 00:00",
-          "view": 77054,
-          "reply": 1969,
+          "view": 77060,
+          "reply": 1970,
           "like": 6317,
           "coin": 10956,
           "favorite": 6930,
@@ -15399,7 +15399,7 @@
         },
         {
           "time": "2026-09-09 00:00",
-          "view": 93068,
+          "view": 93096,
           "reply": 3203,
           "like": 9066,
           "coin": 15398,
@@ -18423,11 +18423,11 @@
         },
         {
           "time": "2026-09-09 00:00",
-          "view": 80323,
+          "view": 80341,
           "reply": 6488,
           "like": 5864,
           "coin": 4509,
-          "favorite": 6901,
+          "favorite": 6903,
           "share": 690
         }
       ]
@@ -21483,7 +21483,7 @@
         },
         {
           "time": "2026-09-09 00:00",
-          "view": 64332,
+          "view": 64338,
           "reply": 2436,
           "like": 8134,
           "coin": 12877,
@@ -21493,7 +21493,7 @@
       ]
     }
   ],
-  "last_update": "2026-09-09 00:33:42",
+  "last_update": "2026-09-09 00:52:21",
   "last_error": "",
   "repo_url": "https://github.com/yinggege666666-alt/bili-video-tracker-2"
 }
