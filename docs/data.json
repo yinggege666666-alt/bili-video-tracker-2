@@ -6102,7 +6102,7 @@
         },
         {
           "time": "2026-09-09 08:00",
-          "view": 40940,
+          "view": 40951,
           "reply": 599,
           "like": 1044,
           "coin": 1385,
@@ -6115,7 +6115,7 @@
       "bvid": "BV1mngW6GEfr",
       "sort_order": 3,
       "title": "【秋叶ComfyUI教程】2026新版秋叶Comfyui整合包无私分享！全面适配50 40 30显卡，Win+Mac一键安装，解压即用（附零基精通教程）效率拉满",
-      "owner": "秋叶aaaaki",
+      "owner": "comfyui系统教程",
       "pubdate": 1786612696,
       "history": [
         {
@@ -9396,11 +9396,11 @@
         },
         {
           "time": "2026-09-09 08:00",
-          "view": 64394,
+          "view": 64415,
           "reply": 10775,
-          "like": 6033,
+          "like": 6034,
           "coin": 6033,
-          "favorite": 6802,
+          "favorite": 6803,
           "share": 813
         }
       ]
@@ -12618,10 +12618,10 @@
         },
         {
           "time": "2026-09-09 08:00",
-          "view": 77152,
-          "reply": 1970,
-          "like": 6318,
-          "coin": 10956,
+          "view": 77163,
+          "reply": 1971,
+          "like": 6319,
+          "coin": 10958,
           "favorite": 6934,
           "share": 1861
         }
@@ -15747,6 +15747,15 @@
           "coin": 15402,
           "favorite": 9203,
           "share": 2529
+        },
+        {
+          "time": "2026-09-09 08:00",
+          "view": 93626,
+          "reply": 3210,
+          "like": 9070,
+          "coin": 15402,
+          "favorite": 9204,
+          "share": 2529
         }
       ]
     },
@@ -15754,7 +15763,7 @@
       "bvid": "BV1aLbD6KETB",
       "sort_order": 6,
       "title": "【秋叶ComfyUI教学】从环境部署、界面认识到出图/出视频，手把手教你用秋叶ComfyUI玩转AI赛道，附秋叶最新ComfyUI整合包解压即用，效率直接拉满！",
-      "owner": "秋叶aaakl",
+      "owner": "comfyui系统教学",
       "pubdate": 1786869318,
       "history": [
         {
@@ -18837,11 +18846,11 @@
         },
         {
           "time": "2026-09-09 08:00",
-          "view": 80640,
+          "view": 80656,
           "reply": 6493,
           "like": 5907,
           "coin": 4580,
-          "favorite": 6953,
+          "favorite": 6954,
           "share": 691
         }
       ]
@@ -21960,17 +21969,17 @@
         },
         {
           "time": "2026-09-09 08:00",
-          "view": 64478,
+          "view": 64483,
           "reply": 2438,
-          "like": 8137,
-          "coin": 12879,
-          "favorite": 7725,
+          "like": 8138,
+          "coin": 12881,
+          "favorite": 7726,
           "share": 2091
         }
       ]
     }
   ],
-  "last_update": "2026-09-09 08:40:51",
-  "last_error": "获取 BV1aegs6pESF 失败：代理响应中没有 JSON",
+  "last_update": "2026-09-09 08:55:47",
+  "last_error": "",
   "repo_url": "https://github.com/yinggege666666-alt/bili-video-tracker-2"
 }
