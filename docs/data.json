@@ -3075,6 +3075,15 @@
           "coin": 331,
           "favorite": 595,
           "share": 37
+        },
+        {
+          "time": "2026-09-11 22:00",
+          "view": 10329,
+          "reply": 67,
+          "like": 392,
+          "coin": 331,
+          "favorite": 595,
+          "share": 37
         }
       ]
     },
@@ -6693,6 +6702,15 @@
           "coin": 1499,
           "favorite": 1869,
           "share": 565
+        },
+        {
+          "time": "2026-09-11 22:00",
+          "view": 44078,
+          "reply": 648,
+          "like": 1133,
+          "coin": 1509,
+          "favorite": 1882,
+          "share": 573
         }
       ]
     },
@@ -10284,6 +10302,15 @@
           "coin": 6087,
           "favorite": 6889,
           "share": 820
+        },
+        {
+          "time": "2026-09-11 22:00",
+          "view": 66544,
+          "reply": 10947,
+          "like": 6099,
+          "coin": 6087,
+          "favorite": 6891,
+          "share": 820
         }
       ]
     },
@@ -13830,6 +13857,15 @@
           "coin": 11031,
           "favorite": 7060,
           "share": 1873
+        },
+        {
+          "time": "2026-09-11 22:00",
+          "view": 79615,
+          "reply": 2080,
+          "like": 6405,
+          "coin": 11037,
+          "favorite": 7073,
+          "share": 1874
         }
       ]
     },
@@ -17259,6 +17295,15 @@
           "coin": 15676,
           "favorite": 9398,
           "share": 2541
+        },
+        {
+          "time": "2026-09-11 22:00",
+          "view": 101399,
+          "reply": 3504,
+          "like": 9251,
+          "coin": 15688,
+          "favorite": 9405,
+          "share": 2541
         }
       ]
     },
@@ -17266,7 +17311,7 @@
       "bvid": "BV1aLbD6KETB",
       "sort_order": 6,
       "title": "【秋叶ComfyUI教学】从环境部署、界面认识到出图/出视频，手把手教你用秋叶ComfyUI玩转AI赛道，附秋叶最新ComfyUI整合包解压即用，效率直接拉满！",
-      "owner": "comfyui系统教学",
+      "owner": "秋叶aaaaki",
       "pubdate": 1786869318,
       "history": [
         {
@@ -20661,6 +20706,15 @@
           "coin": 4740,
           "favorite": 7236,
           "share": 710
+        },
+        {
+          "time": "2026-09-11 22:00",
+          "view": 84415,
+          "reply": 6798,
+          "like": 6116,
+          "coin": 4754,
+          "favorite": 7252,
+          "share": 713
         }
       ]
     },
@@ -24081,11 +24135,20 @@
           "coin": 13364,
           "favorite": 8042,
           "share": 2097
+        },
+        {
+          "time": "2026-09-11 22:00",
+          "view": 69793,
+          "reply": 2685,
+          "like": 8436,
+          "coin": 13375,
+          "favorite": 8067,
+          "share": 2099
         }
       ]
     }
   ],
-  "last_update": "2026-09-11 19:29:06",
-  "last_error": "获取 BV1i1uB6bEop 失败：代理响应中没有 JSON；获取 BV1aegs6pESF 失败：代理响应中没有 JSON；获取 BV1yabX6AEsA 失败：代理响应中没有 JSON",
+  "last_update": "2026-09-11 22:37:45",
+  "last_error": "",
   "repo_url": "https://github.com/yinggege666666-alt/bili-video-tracker-2"
 }
