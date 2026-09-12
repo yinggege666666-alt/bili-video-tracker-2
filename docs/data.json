@@ -3165,6 +3165,15 @@
           "coin": 331,
           "favorite": 595,
           "share": 37
+        },
+        {
+          "time": "2026-09-12 22:00",
+          "view": 10330,
+          "reply": 67,
+          "like": 392,
+          "coin": 331,
+          "favorite": 595,
+          "share": 37
         }
       ]
     },
@@ -6882,6 +6891,15 @@
           "coin": 1591,
           "favorite": 1947,
           "share": 607
+        },
+        {
+          "time": "2026-09-12 22:00",
+          "view": 45119,
+          "reply": 661,
+          "like": 1191,
+          "coin": 1597,
+          "favorite": 1950,
+          "share": 608
         }
       ]
     },
@@ -14199,6 +14217,15 @@
           "coin": 11060,
           "favorite": 7101,
           "share": 1874
+        },
+        {
+          "time": "2026-09-12 22:00",
+          "view": 80399,
+          "reply": 2110,
+          "like": 6430,
+          "coin": 11062,
+          "favorite": 7106,
+          "share": 1875
         }
       ]
     },
@@ -17727,6 +17754,15 @@
           "coin": 15703,
           "favorite": 9421,
           "share": 2542
+        },
+        {
+          "time": "2026-09-12 22:00",
+          "view": 104502,
+          "reply": 3566,
+          "like": 9272,
+          "coin": 15709,
+          "favorite": 9428,
+          "share": 2542
         }
       ]
     },
@@ -17734,7 +17770,7 @@
       "bvid": "BV1aLbD6KETB",
       "sort_order": 6,
       "title": "【秋叶ComfyUI教学】从环境部署、界面认识到出图/出视频，手把手教你用秋叶ComfyUI玩转AI赛道，附秋叶最新ComfyUI整合包解压即用，效率直接拉满！",
-      "owner": "ComfyUI系统教学",
+      "owner": "秋叶aaaaki",
       "pubdate": 1786869318,
       "history": [
         {
@@ -21237,6 +21273,15 @@
           "coin": 4805,
           "favorite": 7371,
           "share": 718
+        },
+        {
+          "time": "2026-09-12 22:00",
+          "view": 85944,
+          "reply": 6897,
+          "like": 6218,
+          "coin": 4822,
+          "favorite": 7385,
+          "share": 719
         }
       ]
     },
@@ -24769,7 +24814,7 @@
       ]
     }
   ],
-  "last_update": "2026-09-12 19:16:15",
-  "last_error": "获取 BV1i1uB6bEop 失败：代理响应中没有 JSON；获取 BV19buq6JEJD 失败：代理响应中没有 JSON；获取 BV1mngW6GEfr 失败：代理响应中没有 JSON",
+  "last_update": "2026-09-12 22:12:02",
+  "last_error": "获取 BV1mngW6GEfr 失败：代理响应中没有 JSON；获取 BV1yabX6AEsA 失败：代理响应中没有 JSON",
   "repo_url": "https://github.com/yinggege666666-alt/bili-video-tracker-2"
 }
