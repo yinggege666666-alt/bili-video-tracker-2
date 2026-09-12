@@ -6894,11 +6894,11 @@
         },
         {
           "time": "2026-09-12 22:00",
-          "view": 45119,
+          "view": 45131,
           "reply": 661,
-          "like": 1191,
-          "coin": 1597,
-          "favorite": 1950,
+          "like": 1192,
+          "coin": 1599,
+          "favorite": 1952,
           "share": 608
         }
       ]
@@ -10572,6 +10572,15 @@
           "coin": 6100,
           "favorite": 6899,
           "share": 823
+        },
+        {
+          "time": "2026-09-12 22:00",
+          "view": 66726,
+          "reply": 10971,
+          "like": 6113,
+          "coin": 6102,
+          "favorite": 6903,
+          "share": 823
         }
       ]
     },
@@ -14220,7 +14229,7 @@
         },
         {
           "time": "2026-09-12 22:00",
-          "view": 80399,
+          "view": 80410,
           "reply": 2110,
           "like": 6430,
           "coin": 11062,
@@ -17757,11 +17766,11 @@
         },
         {
           "time": "2026-09-12 22:00",
-          "view": 104502,
-          "reply": 3566,
-          "like": 9272,
-          "coin": 15709,
-          "favorite": 9428,
+          "view": 104522,
+          "reply": 3567,
+          "like": 9273,
+          "coin": 15710,
+          "favorite": 9429,
           "share": 2542
         }
       ]
@@ -21276,9 +21285,9 @@
         },
         {
           "time": "2026-09-12 22:00",
-          "view": 85944,
+          "view": 85960,
           "reply": 6897,
-          "like": 6218,
+          "like": 6219,
           "coin": 4822,
           "favorite": 7385,
           "share": 719
@@ -24810,11 +24819,20 @@
           "coin": 13386,
           "favorite": 8086,
           "share": 2099
+        },
+        {
+          "time": "2026-09-12 22:00",
+          "view": 76202,
+          "reply": 2715,
+          "like": 8449,
+          "coin": 13386,
+          "favorite": 8088,
+          "share": 2099
         }
       ]
     }
   ],
-  "last_update": "2026-09-12 22:12:02",
-  "last_error": "获取 BV1mngW6GEfr 失败：代理响应中没有 JSON；获取 BV1yabX6AEsA 失败：代理响应中没有 JSON",
+  "last_update": "2026-09-12 22:22:51",
+  "last_error": "",
   "repo_url": "https://github.com/yinggege666666-alt/bili-video-tracker-2"
 }
