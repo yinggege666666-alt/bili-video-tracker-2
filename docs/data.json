@@ -3300,6 +3300,15 @@
           "coin": 331,
           "favorite": 595,
           "share": 37
+        },
+        {
+          "time": "2026-09-14 15:00",
+          "view": 10331,
+          "reply": 67,
+          "like": 392,
+          "coin": 331,
+          "favorite": 595,
+          "share": 37
         }
       ]
     },
@@ -14712,6 +14721,15 @@
           "coin": 11086,
           "favorite": 7152,
           "share": 1879
+        },
+        {
+          "time": "2026-09-14 15:00",
+          "view": 81674,
+          "reply": 2158,
+          "like": 6467,
+          "coin": 11088,
+          "favorite": 7158,
+          "share": 1880
         }
       ]
     },
@@ -18375,6 +18393,15 @@
           "coin": 15823,
           "favorite": 9562,
           "share": 2548
+        },
+        {
+          "time": "2026-09-14 15:00",
+          "view": 107414,
+          "reply": 3697,
+          "like": 9403,
+          "coin": 15824,
+          "favorite": 9563,
+          "share": 2548
         }
       ]
     },
@@ -22010,6 +22037,15 @@
           "like": 6358,
           "coin": 4939,
           "favorite": 7566,
+          "share": 726
+        },
+        {
+          "time": "2026-09-14 15:00",
+          "view": 88338,
+          "reply": 7025,
+          "like": 6369,
+          "coin": 4950,
+          "favorite": 7585,
           "share": 726
         }
       ]
@@ -25674,11 +25710,20 @@
           "coin": 13434,
           "favorite": 8120,
           "share": 2100
+        },
+        {
+          "time": "2026-09-14 15:00",
+          "view": 77714,
+          "reply": 2754,
+          "like": 8481,
+          "coin": 13434,
+          "favorite": 8120,
+          "share": 2100
         }
       ]
     }
   ],
-  "last_update": "2026-09-14 14:23:40",
-  "last_error": "获取 BV1i1uB6bEop 失败：代理响应中没有 JSON；获取 BV19buq6JEJD 失败：代理响应中没有 JSON；获取 BV1VV3X6eEKu 失败：代理响应中没有 JSON",
+  "last_update": "2026-09-14 15:06:11",
+  "last_error": "获取 BV19buq6JEJD 失败：代理响应中没有 JSON；获取 BV1mngW6GEfr 失败：代理响应中没有 JSON",
   "repo_url": "https://github.com/yinggege666666-alt/bili-video-tracker-2"
 }
