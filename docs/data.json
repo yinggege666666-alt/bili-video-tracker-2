@@ -3453,6 +3453,15 @@
           "coin": 331,
           "favorite": 595,
           "share": 37
+        },
+        {
+          "time": "2026-09-17 01:00",
+          "view": 10333,
+          "reply": 67,
+          "like": 392,
+          "coin": 331,
+          "favorite": 595,
+          "share": 37
         }
       ]
     },
@@ -7467,6 +7476,15 @@
           "coin": 1793,
           "favorite": 2173,
           "share": 727
+        },
+        {
+          "time": "2026-09-17 01:00",
+          "view": 49536,
+          "reply": 716,
+          "like": 1335,
+          "coin": 1795,
+          "favorite": 2180,
+          "share": 728
         }
       ]
     },
@@ -11454,13 +11472,22 @@
           "coin": 6154,
           "favorite": 6964,
           "share": 827
+        },
+        {
+          "time": "2026-09-17 01:00",
+          "view": 67507,
+          "reply": 11065,
+          "like": 6167,
+          "coin": 6155,
+          "favorite": 6966,
+          "share": 827
         }
       ]
     },
     {
       "bvid": "BV1VV3X6eEKu",
       "sort_order": 4,
-      "title": "Comfyui工作流从零基础到精通（2027新手入门实用版comfyui教程）详细从零开始学习comfyui工作流搭建，全程干货无废话！AI绘画AI视频生成",
+      "title": "Comfyui零基础入门教程附整合包（2027新手入门实用版comfyui教程）详细从零开始学习comfyui工作流搭建，全程干货无废话！AI绘画AI视频生成",
       "owner": "comfyui零基础入门教程",
       "pubdate": 1785654110,
       "history": [
@@ -15369,6 +15396,15 @@
           "coin": 11142,
           "favorite": 7259,
           "share": 1896
+        },
+        {
+          "time": "2026-09-17 01:00",
+          "view": 84118,
+          "reply": 2242,
+          "like": 6561,
+          "coin": 11164,
+          "favorite": 7283,
+          "share": 1897
         }
       ]
     },
@@ -19194,6 +19230,15 @@
           "coin": 15996,
           "favorite": 9688,
           "share": 2554
+        },
+        {
+          "time": "2026-09-17 01:00",
+          "view": 112221,
+          "reply": 3924,
+          "like": 9606,
+          "coin": 16075,
+          "favorite": 9783,
+          "share": 2554
         }
       ]
     },
@@ -23001,6 +23046,15 @@
           "coin": 5097,
           "favorite": 7885,
           "share": 749
+        },
+        {
+          "time": "2026-09-17 01:00",
+          "view": 91793,
+          "reply": 7173,
+          "like": 6578,
+          "coin": 5136,
+          "favorite": 7924,
+          "share": 757
         }
       ]
     },
@@ -26808,11 +26862,20 @@
           "coin": 13441,
           "favorite": 8128,
           "share": 2103
+        },
+        {
+          "time": "2026-09-17 01:00",
+          "view": 78439,
+          "reply": 2776,
+          "like": 8489,
+          "coin": 13441,
+          "favorite": 8134,
+          "share": 2103
         }
       ]
     }
   ],
-  "last_update": "2026-09-16 20:08:23",
-  "last_error": "获取 BV1i1uB6bEop 失败：代理响应中没有 JSON；获取 BV1mngW6GEfr 失败：代理响应中没有 JSON；获取 BV1VV3X6eEKu 失败：代理响应中没有 JSON",
+  "last_update": "2026-09-17 01:04:52",
+  "last_error": "",
   "repo_url": "https://github.com/yinggege666666-alt/bili-video-tracker-2"
 }
