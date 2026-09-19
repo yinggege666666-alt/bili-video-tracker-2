@@ -3633,6 +3633,15 @@
           "coin": 331,
           "favorite": 595,
           "share": 37
+        },
+        {
+          "time": "2026-09-19 09:00",
+          "view": 10333,
+          "reply": 67,
+          "like": 392,
+          "coin": 331,
+          "favorite": 595,
+          "share": 37
         }
       ]
     },
@@ -12039,6 +12048,15 @@
           "coin": 6169,
           "favorite": 7007,
           "share": 828
+        },
+        {
+          "time": "2026-09-19 09:00",
+          "view": 67953,
+          "reply": 11134,
+          "like": 6184,
+          "coin": 6169,
+          "favorite": 7007,
+          "share": 828
         }
       ]
     },
@@ -16116,6 +16134,15 @@
           "coin": 11406,
           "favorite": 7484,
           "share": 1903
+        },
+        {
+          "time": "2026-09-19 09:00",
+          "view": 93262,
+          "reply": 2344,
+          "like": 6713,
+          "coin": 11406,
+          "favorite": 7486,
+          "share": 1903
         }
       ]
     },
@@ -20130,6 +20157,15 @@
           "coin": 16159,
           "favorite": 9867,
           "share": 2556
+        },
+        {
+          "time": "2026-09-19 09:00",
+          "view": 115394,
+          "reply": 4045,
+          "like": 9692,
+          "coin": 16159,
+          "favorite": 9867,
+          "share": 2556
         }
       ]
     },
@@ -24125,6 +24161,15 @@
           "like": 6816,
           "coin": 5315,
           "favorite": 8230,
+          "share": 774
+        },
+        {
+          "time": "2026-09-19 09:00",
+          "view": 95211,
+          "reply": 7434,
+          "like": 6817,
+          "coin": 5315,
+          "favorite": 8232,
           "share": 774
         }
       ]
@@ -28126,7 +28171,7 @@
       ]
     }
   ],
-  "last_update": "2026-09-19 08:38:35",
-  "last_error": "",
+  "last_update": "2026-09-19 09:14:47",
+  "last_error": "获取 BV19buq6JEJD 失败：代理响应中没有 JSON；获取 BV1yabX6AEsA 失败：代理响应中没有 JSON",
   "repo_url": "https://github.com/yinggege666666-alt/bili-video-tracker-2"
 }
