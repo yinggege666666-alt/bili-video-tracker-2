@@ -17646,6 +17646,15 @@
           "coin": 11635,
           "favorite": 7779,
           "share": 1922
+        },
+        {
+          "time": "2026-09-24 23:00",
+          "view": 98182,
+          "reply": 2587,
+          "like": 6919,
+          "coin": 11637,
+          "favorite": 7784,
+          "share": 1922
         }
       ]
     },
@@ -17653,7 +17662,7 @@
       "bvid": "BV1aegs6pESF",
       "sort_order": 5,
       "title": "【ComfyUI教程】2027新版秋叶Comfyui整合包中文版无私分享！全面适配50 40 30系显卡，Win+Mac一键安装，秋叶comfyui整合包下载",
-      "owner": "ComfyUI中文整合包安装",
+      "owner": "秋旪aaakii",
       "pubdate": 1786634549,
       "history": [
         {
@@ -22074,6 +22083,15 @@
           "coin": 16263,
           "favorite": 9973,
           "share": 2561
+        },
+        {
+          "time": "2026-09-24 23:00",
+          "view": 120981,
+          "reply": 4303,
+          "like": 9888,
+          "coin": 16471,
+          "favorite": 10080,
+          "share": 2563
         }
       ]
     },
@@ -26484,6 +26502,15 @@
           "coin": 5686,
           "favorite": 8894,
           "share": 807
+        },
+        {
+          "time": "2026-09-24 23:00",
+          "view": 102950,
+          "reply": 7862,
+          "like": 7663,
+          "coin": 5721,
+          "favorite": 9427,
+          "share": 858
         }
       ]
     },
@@ -30867,11 +30894,20 @@
           "coin": 13465,
           "favorite": 8158,
           "share": 2106
+        },
+        {
+          "time": "2026-09-24 23:00",
+          "view": 79438,
+          "reply": 2818,
+          "like": 8513,
+          "coin": 13467,
+          "favorite": 8158,
+          "share": 2106
         }
       ]
     }
   ],
-  "last_update": "2026-09-24 20:15:17",
-  "last_error": "",
+  "last_update": "2026-09-24 23:12:26",
+  "last_error": "获取 BV1i1uB6bEop 失败：代理响应中没有 JSON；获取 BV19buq6JEJD 失败：代理响应中没有 JSON；获取 BV1mngW6GEfr 失败：代理响应中没有 JSON",
   "repo_url": "https://github.com/yinggege666666-alt/bili-video-tracker-2"
 }
