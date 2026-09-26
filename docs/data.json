@@ -8802,7 +8802,7 @@
         },
         {
           "time": "2026-09-26 09:00",
-          "view": 52537,
+          "view": 52542,
           "reply": 752,
           "like": 1422,
           "coin": 1906,
@@ -13497,6 +13497,15 @@
           "coin": 6237,
           "favorite": 7110,
           "share": 833
+        },
+        {
+          "time": "2026-09-26 09:00",
+          "view": 69158,
+          "reply": 11255,
+          "like": 6253,
+          "coin": 6237,
+          "favorite": 7110,
+          "share": 833
         }
       ]
     },
@@ -18069,6 +18078,15 @@
           "coin": 11654,
           "favorite": 7822,
           "share": 1922
+        },
+        {
+          "time": "2026-09-26 09:00",
+          "view": 98813,
+          "reply": 2617,
+          "like": 6942,
+          "coin": 11654,
+          "favorite": 7825,
+          "share": 1923
         }
       ]
     },
@@ -22605,6 +22623,15 @@
           "coin": 16507,
           "favorite": 10105,
           "share": 2567
+        },
+        {
+          "time": "2026-09-26 09:00",
+          "view": 122634,
+          "reply": 4410,
+          "like": 9923,
+          "coin": 16510,
+          "favorite": 10110,
+          "share": 2567
         }
       ]
     },
@@ -27123,6 +27150,15 @@
           "coin": 5779,
           "favorite": 9581,
           "share": 868
+        },
+        {
+          "time": "2026-09-26 09:00",
+          "view": 104759,
+          "reply": 7972,
+          "like": 7752,
+          "coin": 5782,
+          "favorite": 9591,
+          "share": 868
         }
       ]
     },
@@ -31605,11 +31641,20 @@
           "coin": 13467,
           "favorite": 8160,
           "share": 2107
+        },
+        {
+          "time": "2026-09-26 09:00",
+          "view": 79585,
+          "reply": 2820,
+          "like": 8514,
+          "coin": 13469,
+          "favorite": 8161,
+          "share": 2107
         }
       ]
     }
   ],
-  "last_update": "2026-09-26 09:38:34",
-  "last_error": "获取 BV1mngW6GEfr 失败：代理响应中没有 JSON；获取 BV1VV3X6eEKu 失败：代理响应中没有 JSON；获取 BV1aegs6pESF 失败：代理响应中没有 JSON",
+  "last_update": "2026-09-26 09:59:35",
+  "last_error": "",
   "repo_url": "https://github.com/yinggege666666-alt/bili-video-tracker-2"
 }
