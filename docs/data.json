@@ -4254,6 +4254,15 @@
           "coin": 331,
           "favorite": 594,
           "share": 37
+        },
+        {
+          "time": "2026-09-28 15:00",
+          "view": 10334,
+          "reply": 67,
+          "like": 392,
+          "coin": 331,
+          "favorite": 594,
+          "share": 37
         }
       ]
     },
@@ -13929,6 +13938,15 @@
           "coin": 6253,
           "favorite": 7140,
           "share": 834
+        },
+        {
+          "time": "2026-09-28 15:00",
+          "view": 69548,
+          "reply": 11297,
+          "like": 6277,
+          "coin": 6253,
+          "favorite": 7140,
+          "share": 834
         }
       ]
     },
@@ -18645,6 +18663,15 @@
           "coin": 11708,
           "favorite": 7891,
           "share": 1928
+        },
+        {
+          "time": "2026-09-28 15:00",
+          "view": 100291,
+          "reply": 2695,
+          "like": 6993,
+          "coin": 11708,
+          "favorite": 7891,
+          "share": 1928
         }
       ]
     },
@@ -23325,6 +23352,15 @@
           "coin": 16540,
           "favorite": 10141,
           "share": 2569
+        },
+        {
+          "time": "2026-09-28 15:00",
+          "view": 124589,
+          "reply": 4549,
+          "like": 9956,
+          "coin": 16542,
+          "favorite": 10143,
+          "share": 2570
         }
       ]
     },
@@ -27996,6 +28032,15 @@
           "coin": 5879,
           "favorite": 9830,
           "share": 875
+        },
+        {
+          "time": "2026-09-28 15:00",
+          "view": 107380,
+          "reply": 8106,
+          "like": 7907,
+          "coin": 5884,
+          "favorite": 9837,
+          "share": 875
         }
       ]
     },
@@ -32635,7 +32680,7 @@
       ]
     }
   ],
-  "last_update": "2026-09-28 13:53:05",
-  "last_error": "",
+  "last_update": "2026-09-28 15:01:13",
+  "last_error": "获取 BV19buq6JEJD 失败：代理响应中没有 JSON；获取 BV1yabX6AEsA 失败：代理响应中没有 JSON",
   "repo_url": "https://github.com/yinggege666666-alt/bili-video-tracker-2"
 }
