@@ -9924,6 +9924,15 @@
           "coin": 1914,
           "favorite": 2333,
           "share": 774
+        },
+        {
+          "time": "2026-10-05 06:00",
+          "view": 53314,
+          "reply": 758,
+          "like": 1429,
+          "coin": 1914,
+          "favorite": 2333,
+          "share": 774
         }
       ]
     },
@@ -15202,6 +15211,15 @@
         {
           "time": "2026-10-05 05:00",
           "view": 70444,
+          "reply": 11410,
+          "like": 6327,
+          "coin": 6291,
+          "favorite": 7191,
+          "share": 837
+        },
+        {
+          "time": "2026-10-05 06:00",
+          "view": 70446,
           "reply": 11410,
           "like": 6327,
           "coin": 6291,
@@ -25467,6 +25485,15 @@
           "coin": 16855,
           "favorite": 10393,
           "share": 2580
+        },
+        {
+          "time": "2026-10-05 06:00",
+          "view": 131469,
+          "reply": 4917,
+          "like": 10190,
+          "coin": 16855,
+          "favorite": 10393,
+          "share": 2580
         }
       ]
     },
@@ -30565,6 +30592,15 @@
         {
           "time": "2026-10-05 05:00",
           "view": 114800,
+          "reply": 8446,
+          "like": 8279,
+          "coin": 6084,
+          "favorite": 10390,
+          "share": 894
+        },
+        {
+          "time": "2026-10-05 06:00",
+          "view": 114809,
           "reply": 8446,
           "like": 8279,
           "coin": 6084,
@@ -35709,11 +35745,20 @@
           "coin": 1835,
           "favorite": 1560,
           "share": 139
+        },
+        {
+          "time": "2026-10-05 06:00",
+          "view": 19719,
+          "reply": 1795,
+          "like": 1483,
+          "coin": 1837,
+          "favorite": 1562,
+          "share": 139
         }
       ]
     }
   ],
-  "last_update": "2026-10-05 05:34:36",
-  "last_error": "",
+  "last_update": "2026-10-05 06:32:10",
+  "last_error": "获取 BV1i1uB6bEop 失败：代理响应中没有 JSON；获取 BV1VV3X6eEKu 失败：代理响应中没有 JSON；获取 BV1yabX6AEsA 失败：代理响应中没有 JSON",
   "repo_url": "https://github.com/yinggege666666-alt/bili-video-tracker-2"
 }
