@@ -4749,6 +4749,15 @@
           "coin": 331,
           "favorite": 594,
           "share": 37
+        },
+        {
+          "time": "2026-10-07 16:00",
+          "view": 10338,
+          "reply": 67,
+          "like": 392,
+          "coin": 331,
+          "favorite": 594,
+          "share": 37
         }
       ]
     },
@@ -10103,6 +10112,15 @@
           "like": 1431,
           "coin": 1914,
           "favorite": 2338,
+          "share": 774
+        },
+        {
+          "time": "2026-10-07 16:00",
+          "view": 53474,
+          "reply": 760,
+          "like": 1431,
+          "coin": 1914,
+          "favorite": 2337,
           "share": 774
         }
       ]
@@ -15468,6 +15486,15 @@
           "coin": 6312,
           "favorite": 7214,
           "share": 837
+        },
+        {
+          "time": "2026-10-07 16:00",
+          "view": 70754,
+          "reply": 11447,
+          "like": 6356,
+          "coin": 6320,
+          "favorite": 7219,
+          "share": 837
         }
       ]
     },
@@ -20697,6 +20724,15 @@
           "coin": 11765,
           "favorite": 8004,
           "share": 1944
+        },
+        {
+          "time": "2026-10-07 16:00",
+          "view": 103796,
+          "reply": 2799,
+          "like": 7070,
+          "coin": 11768,
+          "favorite": 8011,
+          "share": 1944
         }
       ]
     },
@@ -25871,6 +25907,15 @@
           "like": 10204,
           "coin": 16867,
           "favorite": 10407,
+          "share": 2581
+        },
+        {
+          "time": "2026-10-07 16:00",
+          "view": 132749,
+          "reply": 4966,
+          "like": 10208,
+          "coin": 16869,
+          "favorite": 10410,
           "share": 2581
         }
       ]
@@ -31056,6 +31101,15 @@
           "coin": 6137,
           "favorite": 10551,
           "share": 898
+        },
+        {
+          "time": "2026-10-07 16:00",
+          "view": 116467,
+          "reply": 8518,
+          "like": 8400,
+          "coin": 6141,
+          "favorite": 10583,
+          "share": 901
         }
       ]
     },
@@ -36204,6 +36258,15 @@
           "coin": 13523,
           "favorite": 8235,
           "share": 2116
+        },
+        {
+          "time": "2026-10-07 16:00",
+          "view": 81241,
+          "reply": 2991,
+          "like": 8567,
+          "coin": 13525,
+          "favorite": 8236,
+          "share": 2116
         }
       ]
     },
@@ -36211,7 +36274,7 @@
       "bvid": "BV1LEan6YEyv",
       "sort_order": 8,
       "title": "【秋叶ComfyUI教程】2026全网最全最详细的秋叶ComfyUI安装教程，一键安装，永久使用,新手必看，SD下载安装教程！（附ComfyUI整合包）",
-      "owner": "秋葉aaaaki",
+      "owner": "comfyui安装部署",
       "pubdate": 1790665200,
       "history": [
         {
@@ -36339,11 +36402,20 @@
           "coin": 2733,
           "favorite": 2226,
           "share": 209
+        },
+        {
+          "time": "2026-10-07 16:00",
+          "view": 32615,
+          "reply": 3077,
+          "like": 2342,
+          "coin": 2928,
+          "favorite": 2369,
+          "share": 229
         }
       ]
     }
   ],
-  "last_update": "2026-10-07 09:49:02",
+  "last_update": "2026-10-07 16:46:34",
   "last_error": "",
   "repo_url": "https://github.com/yinggege666666-alt/bili-video-tracker-2"
 }
