@@ -4794,6 +4794,15 @@
           "coin": 331,
           "favorite": 594,
           "share": 37
+        },
+        {
+          "time": "2026-10-08 17:00",
+          "view": 10338,
+          "reply": 67,
+          "like": 392,
+          "coin": 331,
+          "favorite": 594,
+          "share": 37
         }
       ]
     },
@@ -10193,6 +10202,15 @@
           "like": 1431,
           "coin": 1914,
           "favorite": 2336,
+          "share": 774
+        },
+        {
+          "time": "2026-10-08 17:00",
+          "view": 53534,
+          "reply": 760,
+          "like": 1431,
+          "coin": 1914,
+          "favorite": 2337,
           "share": 774
         }
       ]
@@ -15602,6 +15620,15 @@
           "like": 6360,
           "coin": 6324,
           "favorite": 7228,
+          "share": 839
+        },
+        {
+          "time": "2026-10-08 17:00",
+          "view": 70977,
+          "reply": 11472,
+          "like": 6368,
+          "coin": 6333,
+          "favorite": 7236,
           "share": 839
         }
       ]
@@ -26088,6 +26115,15 @@
           "coin": 16869,
           "favorite": 10410,
           "share": 2581
+        },
+        {
+          "time": "2026-10-08 17:00",
+          "view": 133178,
+          "reply": 4977,
+          "like": 10212,
+          "coin": 16870,
+          "favorite": 10416,
+          "share": 2581
         }
       ]
     },
@@ -36510,6 +36546,15 @@
           "coin": 13525,
           "favorite": 8241,
           "share": 2117
+        },
+        {
+          "time": "2026-10-08 17:00",
+          "view": 81392,
+          "reply": 2996,
+          "like": 8573,
+          "coin": 13527,
+          "favorite": 8241,
+          "share": 2117
         }
       ]
     },
@@ -36517,7 +36562,7 @@
       "bvid": "BV1LEan6YEyv",
       "sort_order": 8,
       "title": "【秋叶ComfyUI教程】2026全网最全最详细的秋叶ComfyUI安装教程，一键安装，永久使用,新手必看，SD下载安装教程！（附ComfyUI整合包）",
-      "owner": "秋葉aaaaki",
+      "owner": "comfyui安装部署",
       "pubdate": 1790665200,
       "history": [
         {
@@ -36681,11 +36726,20 @@
           "coin": 3201,
           "favorite": 2595,
           "share": 264
+        },
+        {
+          "time": "2026-10-08 17:00",
+          "view": 39203,
+          "reply": 3592,
+          "like": 2793,
+          "coin": 3517,
+          "favorite": 2861,
+          "share": 291
         }
       ]
     }
   ],
-  "last_update": "2026-10-08 10:16:44",
-  "last_error": "获取 BV1aegs6pESF 失败：代理响应中没有 JSON；获取 BV1LEan6YEyv 失败：代理响应中没有 JSON",
+  "last_update": "2026-10-08 17:05:09",
+  "last_error": "获取 BV1VV3X6eEKu 失败：代理响应中没有 JSON；获取 BV1aLbD6KETB 失败：代理响应中没有 JSON",
   "repo_url": "https://github.com/yinggege666666-alt/bili-video-tracker-2"
 }
