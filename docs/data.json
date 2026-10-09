@@ -15702,6 +15702,15 @@
           "coin": 6337,
           "favorite": 7246,
           "share": 840
+        },
+        {
+          "time": "2026-10-09 17:00",
+          "view": 71185,
+          "reply": 11500,
+          "like": 6377,
+          "coin": 6344,
+          "favorite": 7254,
+          "share": 841
         }
       ]
     },
@@ -36928,7 +36937,7 @@
       ]
     }
   ],
-  "last_update": "2026-10-09 10:34:01",
-  "last_error": "获取 BV1i1uB6bEop 失败：HTTP Error 401: Unauthorized；获取 BV19buq6JEJD 失败：HTTP Error 401: Unauthorized；获取 BV1mngW6GEfr 失败：HTTP Error 401: Unauthorized",
+  "last_update": "2026-10-09 17:15:41",
+  "last_error": "获取 BV1i1uB6bEop 失败：代理响应中没有 JSON；获取 BV19buq6JEJD 失败：代理响应中没有 JSON；获取 BV1VV3X6eEKu 失败：代理响应中没有 JSON",
   "repo_url": "https://github.com/yinggege666666-alt/bili-video-tracker-2"
 }
