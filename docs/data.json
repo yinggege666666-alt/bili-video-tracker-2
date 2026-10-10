@@ -10374,6 +10374,15 @@
           "coin": 1914,
           "favorite": 2339,
           "share": 776
+        },
+        {
+          "time": "2026-10-10 23:00",
+          "view": 53660,
+          "reply": 760,
+          "like": 1431,
+          "coin": 1914,
+          "favorite": 2339,
+          "share": 776
         }
       ]
     },
@@ -15863,6 +15872,15 @@
           "like": 6389,
           "coin": 6356,
           "favorite": 7275,
+          "share": 843
+        },
+        {
+          "time": "2026-10-10 23:00",
+          "view": 71508,
+          "reply": 11558,
+          "like": 6390,
+          "coin": 6356,
+          "favorite": 7276,
           "share": 843
         }
       ]
@@ -37095,6 +37113,15 @@
           "coin": 13534,
           "favorite": 8255,
           "share": 2118
+        },
+        {
+          "time": "2026-10-10 23:00",
+          "view": 81747,
+          "reply": 3027,
+          "like": 8587,
+          "coin": 13534,
+          "favorite": 8257,
+          "share": 2118
         }
       ]
     },
@@ -37102,7 +37129,7 @@
       "bvid": "BV1LEan6YEyv",
       "sort_order": 8,
       "title": "【秋叶ComfyUI教程】2026全网最全最详细的秋叶ComfyUI安装教程，一键安装，永久使用,新手必看，SD下载安装教程！（附ComfyUI整合包）",
-      "owner": "comfyui安装部署",
+      "owner": "秋葉aaaaki",
       "pubdate": 1790665200,
       "history": [
         {
@@ -37356,11 +37383,20 @@
           "coin": 4383,
           "favorite": 3516,
           "share": 343
+        },
+        {
+          "time": "2026-10-10 23:00",
+          "view": 50096,
+          "reply": 4447,
+          "like": 3479,
+          "coin": 4467,
+          "favorite": 3561,
+          "share": 359
         }
       ]
     }
   ],
-  "last_update": "2026-10-10 21:59:01",
-  "last_error": "",
+  "last_update": "2026-10-10 23:26:02",
+  "last_error": "获取 BV1i1uB6bEop 失败：代理响应中没有 JSON；获取 BV1VV3X6eEKu 失败：代理响应中没有 JSON；获取 BV1aegs6pESF 失败：代理响应中没有 JSON",
   "repo_url": "https://github.com/yinggege666666-alt/bili-video-tracker-2"
 }
